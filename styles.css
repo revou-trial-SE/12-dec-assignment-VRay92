@@ -9,3 +9,7 @@
 .bg-body-tertiary{
     background-color: darkorange;
 }
+
+.card-text{
+    color:dimgray
+}
