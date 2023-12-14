@@ -10,8 +10,12 @@
     background-color: darkorange;
 }
 
-.card-text, footer{
+.card-text{
     font-size:smaller;
-    color:dimgray
-    
+    color:dimgray    
 }
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    color:dimgray 
+  }
