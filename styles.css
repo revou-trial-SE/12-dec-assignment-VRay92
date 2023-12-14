@@ -10,7 +10,7 @@
     background-color: darkorange;
 }
 
-.card-text{
+.card-text, footer{
     font-size:smaller;
     color:dimgray
     
